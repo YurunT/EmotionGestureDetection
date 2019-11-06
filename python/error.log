@@ -1,0 +1,15 @@
+[I 22:41:45.368 NotebookApp] JupyterLab extension loaded from /opt/anaconda/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 22:41:45.368 NotebookApp] JupyterLab application directory is /opt/anaconda/anaconda3/share/jupyter/lab
+[I 22:41:45.369 NotebookApp] Serving notebooks from local directory: /home/ytian/LSTM_with_office1_2/python
+[I 22:41:45.369 NotebookApp] The Jupyter Notebook is running at:
+[I 22:41:45.369 NotebookApp] http://localhost:8888/?token=bbfae68d223d46d9226ca9d5bd7a3b9e8d40b8008f3e5565
+[I 22:41:45.369 NotebookApp]  or http://127.0.0.1:8888/?token=bbfae68d223d46d9226ca9d5bd7a3b9e8d40b8008f3e5565
+[I 22:41:45.369 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 22:41:45.371 NotebookApp] No web browser found: could not locate runnable browser.
+[C 22:41:45.372 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ytian/.local/share/jupyter/runtime/nbserver-5880-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=bbfae68d223d46d9226ca9d5bd7a3b9e8d40b8008f3e5565
+     or http://127.0.0.1:8888/?token=bbfae68d223d46d9226ca9d5bd7a3b9e8d40b8008f3e5565
