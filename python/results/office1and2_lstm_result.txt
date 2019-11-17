@@ -1,2 +1,0 @@
-60.88% (+/- 4.86%)
-average time spent on fitting for each cv with epoch=  20000, batchsize=  500 is:  1120.41421587 seconds
